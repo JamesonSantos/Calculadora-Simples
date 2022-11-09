@@ -1,0 +1,15 @@
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.csproj.AssemblyReference.cache
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.AssemblyInfoInputs.cache
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.AssemblyInfo.cs
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\CalculadoraPratica\bin\Debug\net7.0\CalculadoraPratica.exe
+C:\Users\PICHAU\CalculadoraPratica\bin\Debug\net7.0\CalculadoraPratica.deps.json
+C:\Users\PICHAU\CalculadoraPratica\bin\Debug\net7.0\CalculadoraPratica.runtimeconfig.json
+C:\Users\PICHAU\CalculadoraPratica\bin\Debug\net7.0\CalculadoraPratica.dll
+C:\Users\PICHAU\CalculadoraPratica\bin\Debug\net7.0\CalculadoraPratica.pdb
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.dll
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\refint\CalculadoraPratica.dll
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.pdb
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\CalculadoraPratica.genruntimeconfig.cache
+C:\Users\PICHAU\CalculadoraPratica\obj\Debug\net7.0\ref\CalculadoraPratica.dll
